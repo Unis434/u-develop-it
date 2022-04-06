@@ -1,0 +1,5 @@
+voters
+select voters.id,voters.first_name,voters.last_name,voters.email,from_unixtime(voters.created_at) AS created_datetime from voters;
+
+votes
+select votes.id, votes.voter_id, votes.candidate_id, from_unixtime(voters.created_at) AS created_datetime from votes;
