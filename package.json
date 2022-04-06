@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bkfleet1/u-develop-it.git"
+    "url": "git+https://github.com/unis434/u-develop-it.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bkfleet1/u-develop-it/issues"
+    "url": "https://github.com/unis434/u-develop-it/issues"
   },
-  "homepage": "https://github.com/bkfleet1/u-develop-it#readme",
+  "homepage": "https://github.com/unis434/u-develop-it#readme",
   "dependencies": {
     "express": "^4.17.2",
     "mysql2": "^2.3.3"
